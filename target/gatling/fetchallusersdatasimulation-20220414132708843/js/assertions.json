@@ -1,0 +1,10 @@
+{
+  "simulation": "fetchAllUsersDataScenario.FetchAllUsersDataSimulation",
+  "simulationId": "fetchallusersdatasimulation",
+  "start": 1649942828843,
+  "description": "ok",
+  "scenarios": ["FetchAllUsersDataSimulation"],
+  "assertions": [
+
+  ]
+}
